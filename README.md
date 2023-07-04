@@ -12,7 +12,7 @@ By <a href="https://www.youtube.com/@programmingwithmosh" target="_blank">Progra
 1. 21:49 Constants
 1. 23:35 Primitive Types 
 1. 26:47 Dynamic Typing 
-1. >30:06 Objects
+1. 30:06 Objects
 1. 35:22 Arrays
-1. 39:41 Functions
+1. >39:41 Functions
 1. 44:22 Types of Functions 
